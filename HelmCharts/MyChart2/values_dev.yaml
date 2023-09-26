@@ -1,0 +1,7 @@
+# Dev Override Values for my Helm Chart
+
+container:
+  image: adv4000/k8sphp:version1
+
+replicaCount: 3
+
